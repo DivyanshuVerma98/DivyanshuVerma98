@@ -4,7 +4,7 @@
 
 Email - divyanshu98.verma@gmail.com
 ### Hi there 👋
-I am Divyanshu Verma, a Backend developer and I like to develop efficient and scalable systems.
+I am Divyanshu Verma, a Consulting Engineer at MongoDB.
 
 ### Technologies 💻
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) &nbsp;
